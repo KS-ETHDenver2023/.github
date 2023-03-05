@@ -15,7 +15,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 ## **Our code** 👨‍💻
 
-- [Web application](https://github.com/KS-ETHDenver2023/Web_App-Alice_Ring) : The easiest way to generate and verify a solvency proof.
+- [Web application](https://github.com/KS-ETHDenver2023/web_app) : The easiest way to generate and verify a solvency proof.
 
 - [ZkBob direct deposit](https://github.com/KS-ETHDenver2023/zkbob-direct-deposit) : Now you can transfer BOB stablecoin without leaking your address
 
