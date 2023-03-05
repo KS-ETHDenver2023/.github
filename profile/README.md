@@ -21,7 +21,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 - [On-chain verifier](https://github.com/KS-ETHDenver2023/Alice-ring-SoulBound-Token) : The heart of our system, it connects each of the modules of the project.
 
-- [Cryptographic verifier](https://github.com/KS-ETHDenver2023/AOS-Ring)  : It allows anyone to verify an AOS ring signature.
+- [Cryptographic verifier](https://github.com/KS-ETHDenver2023/AOS-Ring) : It allows anyone to verify an AOS ring signature using it's smart contract.
 
 - [SoulBound tokens](https://github.com/KS-ETHDenver2023/Alice-ring-SoulBound-Token) : The best way for our provers to show their proof of solvency with their communication address.
 
