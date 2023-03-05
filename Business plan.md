@@ -279,6 +279,7 @@ Our project and our smart contracts must be deployed and usable on different net
 
 The goal for our project was to add, with zkBob, the possibility of carrying out private transactions, via a stablecoin, on an EVM chain. zkBob is currently deployed on the Polygon ecosystem, which we particularly appreciate due to its infrastructure and the quality of resources for developers and users. We relied on the zkbob documentation.
 
+( click on the picture to see it clearly )
 
 **Proof generation :**![](https://lh4.googleusercontent.com/j31Gom6gaSTL9QubDfyWFwNiqdN_094Bi_LXkyZA8iJwwlKJ_SK-8oiFxCd7_-fP5ZVZegJF2E7jqYWIWraSUCxgsZpt3w16QSH-WN9izHCKL9IpWgt_tXwky-5pPxkru7DvZZXGxapdOgM7LhJuEDY)
 
