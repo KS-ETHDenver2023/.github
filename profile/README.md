@@ -7,7 +7,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 ## **Features** ✨
 
-- Accessible and intuitive [web application](https://link_to_deployed_web_app) 🌐
+- Accessible and intuitive [web application](https://web-app-xi-rose.vercel.app/) 🌐
 - Robust smart contracts⚡
 - SoulBound tokens as timestamped proof of solvency 🔒
 - Generation of cryptographic proof in a local environment 🖥️
