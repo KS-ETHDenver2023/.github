@@ -29,7 +29,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 ## **Business plan**
 
-Here You can find our [business plan](https://github.com/KS-ETHDenver2023/.github/blob/main/Business%20plan.md)
+Here You can find our [business plan](https://github.com/KS-ETHDenver2023/.github/blob/main/Business%20plan.md) 👨‍💼
 
 ## **The team** 🏆
 
