@@ -35,7 +35,7 @@ We are 4 students bound by our passion and commitment for blockchain and Web3. W
 By addressing the need for privacy in the blockchain ecosystem while having a real utility in our daily life, Alice's Ring has the potential to be a valuable tool for individuals and businesses alike.
 
 
-## **Contribute** 👨‍💻
+## **Contribute** 📚
 
 Our project is intended as open source and as a tool for the Ethereum community and all web3 users.
 
