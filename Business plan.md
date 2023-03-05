@@ -1,4 +1,5 @@
 
+
 # **Litepaper: Alice’s Ring**
   
   
@@ -79,17 +80,43 @@ This makes ring signatures particularly useful in applications that require fast
 **Step 1 :** Generating the solvency proof
 
 ![](https://lh6.googleusercontent.com/_dzooHhCpndQ4iCjC95nKI41aj-tZLbtBkaXQ8Q32uM4aYvVNw4pg9zQ2zdvaWjvNOoUAa7KgzTFcJVK_yOtw6v6dxNjpMpwGnzKJCOmpey6giR53IDc7pDGOH_ro290HGssEyi_KVyXG41JXPe13KA)
+Alice wants to generate a solvency proof for Bob :
 
+1.  Alice visits our website
+    
+2.  She follows the easy steps
+    
+3.  She uses her wallet (Metamask, Coinbase wallet or WalletConnect) to send the proof to the on-chain verifier
+    
+4.  If her proof is valid, Alice will receive a SoulBound Token on her communication address as a proof of her solvability
+    
+5.  The SoulBoundToken can now be shown to anyone
   
 
 **Step 2 : ** Agreement
 
 ![](https://lh3.googleusercontent.com/hiCF517BlU-vz-x1TLLvdIAQRkGX_Mojwv5e9eRMGatGlrNOz27U61-seWmNmV6kAlRBkoLkBMkkxO3fh5i_8fOeNZGLR8ytozUsIX-v_oljPGb3cNQ-AvoyizLHMWzzjsakYQm4aBj9cRBXBptVNMY)
+Bob want to verify Alice’s proof :
+
+1.  Bob goes to Alice’s Ring Dapp, in the check proof section
+    
+2.  He fills in Alice's communication address as well as the ID of the SoulBound token given by Alice
+    
+3.  If a corresponding SoulBound token owned by Alice exists, it will be displayed
+    
+4.  Bob verify all the infos that he need to know
+
 
 **Step 3 :** Transfering the funds
 
 ![](https://lh5.googleusercontent.com/94GTAhV4-xqVLD5kvVYSXtGT3AEeCLzV64mlZ4UNHXlVKW76lEfJzxV8v56HpnnnTEAg4QXbkpwzh4IvOZtWDQahbkyJLrBCJYkL_-81Pka6vXceidBT-V9rFOsusbnTB7pBfi1w3PKs8LvnTcp3qdA)
+Now that Alice's proof of solvency has been verified by Bob, it's time for payment. In order not to reveal her address, Alice uses ZkBob :
 
+1.  Alice goes to our website
+    
+2.  She connects her wallet and follows the steps
+    
+3.  She signs the transaction
  
 ## **5.  Use Cases**
     
