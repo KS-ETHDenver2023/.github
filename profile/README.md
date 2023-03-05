@@ -23,7 +23,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 - [Cryptographic verifier](https://github.com/KS-ETHDenver2023/AOS-Ring) : It allows anyone to verify an AOS ring signature using it's smart contract.
 
-- [SoulBound tokens](https://github.com/KS-ETHDenver2023/Alice-ring-SoulBound-Token) : The best way for our provers to show their proof of solvency with their communication address.
+- [SoulBound tokens](https://github.com/KS-ETHDenver2023/Alice-ring-SoulBound-Token) : The best way for our provers to show their proof of solvency linked with their communication address.
 
 -  [Cryptographic proof built in a local environment](https://github.com/KS-ETHDenver2023/ring_signature) : Ring signature directly generated in your computer, no internet connection needed.
 
