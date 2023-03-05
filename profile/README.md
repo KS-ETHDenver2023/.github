@@ -5,6 +5,8 @@
 
 In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. Alice's Ring allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.
 
+**A Youtube video of our product : ** [here](https://youtu.be/4sSGJT97GDE)
+
 ## **Features** ✨
 
 - Accessible and intuitive [web application](https://web-app-xi-rose.vercel.app/) 🌐
