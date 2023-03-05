@@ -94,7 +94,7 @@ Alice wants to generate a solvency proof for Bob :
 5.  The SoulBoundToken can now be shown to anyone
   
 
-**Step 2 : ** Agreement
+**Step 2 :** Agreement
 
 ![](https://lh3.googleusercontent.com/hiCF517BlU-vz-x1TLLvdIAQRkGX_Mojwv5e9eRMGatGlrNOz27U61-seWmNmV6kAlRBkoLkBMkkxO3fh5i_8fOeNZGLR8ytozUsIX-v_oljPGb3cNQ-AvoyizLHMWzzjsakYQm4aBj9cRBXBptVNMY)
 
