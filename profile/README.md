@@ -6,10 +6,10 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 ## **Features** ✨
 
-- Accessible and intuitive [web application](https://github.com/KS-ETHDenver2023/Web_App-Alice_Ring) 🌐
+- Accessible and intuitive [web application](https://link_to_deployed_web_app) 🌐
 - Robust smart contracts⚡
-- [SoulBound tokens](https://github.com/KS-ETHDenver2023/Alice-ring-SoulBound-Token) as timestamped proof of solvency 🔒
-- Generation of [cryptographic proof in a local environment](https://github.com/KS-ETHDenver2023/ring_signature) 🖥️
+- SoulBound tokens as timestamped proof of solvency 🔒
+- Generation of cryptographic proof in a local environment 🖥️
 - High-performance cryptographic processes🗝️
 
 ## **Our code** 👨‍💻
