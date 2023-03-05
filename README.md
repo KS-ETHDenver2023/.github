@@ -1,7 +1,9 @@
 # **Alice's Ring**
 
 **Enhance privacy, Prove solvency**
+
 In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. Alice's Ring allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.
+
 
 ## **Features** ✨
 
