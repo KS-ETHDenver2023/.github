@@ -15,6 +15,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 ## **The team** 🏆
 
 **The team consists of 4 committed people who love what they do.** 
+
 We are 4 students bound by our passion and commitment for blockchain and Web3. We want to develop innovative solutions that will help the whole ecosystem expand. Too many times have we seen privacy being set aside in projects and we want to be able to change that. That is why Maxime, Nathan, Thomas and Adam are glad to present Alice’s ring, the solution for real privacy.
 
 By addressing the need for privacy in the blockchain ecosystem while having a real utility in our daily life, Alice's Ring has the potential to be a valuable tool for individuals and businesses alike.
