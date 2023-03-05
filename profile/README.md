@@ -27,6 +27,9 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 -  [Cryptographic proof built in a local environment](https://github.com/KS-ETHDenver2023/ring_signature) : Ring signature directly generated in your computer, no internet connection needed.
 
+## **Business plan**
+
+Here You can find our [business plan](https://github.com/KS-ETHDenver2023/.github/blob/main/Business%20plan.md)
 
 ## **The team** 🏆
 
